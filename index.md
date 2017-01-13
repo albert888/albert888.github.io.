@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 
-
-<header>## Welcome to my page!</header>
+<header> Welcome to my page!</header>
 
 <p>
 <P>
@@ -9,3 +9,4 @@
 
 <footer>Have a great day </footer>
 
+</html>
