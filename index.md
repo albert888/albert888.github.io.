@@ -1,12 +1,8 @@
-<!DOCTYPE html>
+<html> 
+  <head>
+    <title> Welcome to my page! </title> 
+  </head> 
+  
+  	<body>
+  </body>
 
-<header> Welcome to my page!</header>
-
-<p>
-<P>
-
-<body>Here is my project</body> 
-
-<footer>Have a great day </footer>
-
-</html>
