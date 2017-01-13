@@ -3,5 +3,5 @@
     <title>Welcome to my page!</title> 
   </head> 
   
-    Here is my project. 
+  <body>  Here is my project. 
 
