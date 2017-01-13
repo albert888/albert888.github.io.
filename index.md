@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
 
-<header> Welcome to my page!</header>
+
+<header>## Welcome to my page!</header>
 
 <p>
 <P>
