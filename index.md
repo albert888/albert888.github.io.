@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<body> Welcome to my page!</body>
+<header> Welcome to my page!</header>
 
 ### Markdown
 
